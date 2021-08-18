@@ -3,7 +3,7 @@ Decision Forest: A Nonparametric Approach to Modeling Irrational Choice
 
 This repository contains all the code used in the numerical experiments in the paper:
 
-	Y.-C. Chen and V. V. Mišić (2021). Decision Forest: A Nonparametric Approach to Modeling Irrational Choice. Management Science, to appear.  Available at SSRN: https://ssrn.com/abstract=3376273.
+> Y.-C. Chen and V. V. Mišić (2021). Decision Forest: A Nonparametric Approach to Modeling Irrational Choice. Management Science, to appear.  Available at SSRN: https://ssrn.com/abstract=3376273.
 
 Citation:
 ---------
