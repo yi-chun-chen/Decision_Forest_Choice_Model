@@ -10,12 +10,15 @@ Citation:
 
 If you use the code and/or data in this repository in your own research, please cite the above paper as follows:
 
+```bibtex
 @article{chen2021decision,
 	title={Decision Forest: A Nonparametric Approach to Modeling Irrational Choice},
-	author={Chen, Yi-Chun and Mi\v{s}i\'{c}, Velibor V.}},
+	author={Chen, Yi-Chun and Mi\v{s}i\'{c}, Velibor V.},
 	journal={Management Science},
 	year={2021},
-	note={Available at SSRN: \url{https://ssrn.com/abstract=3376273}}
+	note={Available at SSRN: \url{https://ssrn.com/abstract=3376273}
+}
+```
 
 License:
 --------
